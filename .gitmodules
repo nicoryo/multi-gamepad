@@ -1,0 +1,3 @@
+[submodule "virtual-nipple"]
+	path = virtual-nipple
+	url = git@github.com:nicoryo/virtual-nipple.git
